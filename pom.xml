@@ -13,7 +13,7 @@
 	<artifactId>itemsapi</artifactId>
 	<version>1</version>
 	<name>ItemsAPI</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot with Devops tools</description>
 	<packaging>war</packaging>
 	<properties>
 		<java.version>1.8</java.version>
